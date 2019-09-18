@@ -1,0 +1,54 @@
+/* Defining default whatever */
+body {
+    padding: 0%;
+    margin: 0%;
+}
+
+.col-1 {margin: 8.33%;}
+.col-2 {margin: 16.66%;}
+.col-3 {margin: 25%;}
+.col-4 {margin: 33.33%}
+.col-5 {margin: 41.66%}
+.col-6 {margin: 50%}
+.col-7 {margin: 58.33%}
+.col-8 {margin: 66.66%}
+.col-9 {margin: 75%}
+.col-10 {margin: 83.33%}
+.col-11 {margin: 91.66%}
+.col-12 {margin: 100%}
+
+
+/* Navigation bar */
+
+nav {
+    background-color: #bc986a;
+    width: 100%;
+    font-size: 2em;
+    padding: 3px;
+    text-align: center;
+    
+}
+
+nav ul {
+    list-style: none;
+    margin: 0%;
+    padding: 0%;
+    
+}
+nav ul li {
+    display: inline-block;
+
+}
+
+/* Content bar */
+main {
+    width: 100%;
+    height: 900px;
+    background-color: #8d8741;
+}
+
+/* Footer */
+
+
+
+/* mobile responsivity */
